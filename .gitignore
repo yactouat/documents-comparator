@@ -1,0 +1,5 @@
+venv
+*.pdf
+.env
+vertexai-sa.json
+doc*.md

@@ -1,0 +1,10 @@
+httpx==0.26.0
+langchain
+langchain-community
+langchain-google-vertexai
+langchain-openai
+pdf2image
+pillow==10.0.1
+pypdf
+python-dotenv
+urllib3==1.26.18
